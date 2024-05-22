@@ -1,3 +1,5 @@
+# This is a basic example which allows you to test all hardware connections and RGB lights
+
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
